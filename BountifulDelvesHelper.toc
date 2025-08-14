@@ -4,6 +4,9 @@
 ## Author: Menelitos
 ## Version: 1.2.6
 ## SavedVariablesPerCharacter: BountifulDelvesHelperDB, BountifulDelvesHelperIconDB
+
+## X-License: GPL
+
 # Libraries
 libs/Ace3/LibStub/LibStub.lua
 libs/Ace3/AceAddon-3.0/AceAddon-3.0.lua
