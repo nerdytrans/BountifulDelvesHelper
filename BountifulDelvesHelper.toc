@@ -1,0 +1,19 @@
+## Interface: 110107
+## Title: Bountiful Delves Helper
+## Notes: Bountiful Delves Helper
+## Author: Menelitos
+## Version: 1.2.6
+## SavedVariablesPerCharacter: BountifulDelvesHelperDB, BountifulDelvesHelperIconDB
+# Libraries
+libs/Ace3/LibStub/LibStub.lua
+libs/Ace3/AceAddon-3.0/AceAddon-3.0.lua
+libs/Ace3/AceDB-3.0/AceDB-3.0.lua
+libs/Ace3/AceGUI-3.0/AceGUI-3.0.xml
+libs/LibDBIcon-1.0/CallbackHandler-1.0/CallbackHandler-1.0.lua
+libs/LibDBIcon-1.0/LibDataBroker-1.1/LibDataBroker-1.1.lua
+libs/LibDBIcon-1.0/LibDBIcon-1.0/LibDBIcon-1.0.lua
+
+# Main Files
+BountifulDelvesHelper.lua
+BountifulDelvesHelper_Functions.lua
+BountifulDelvesHelper_MinimapIcon.lua
