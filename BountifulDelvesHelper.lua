@@ -339,8 +339,8 @@ function showUI()
     local function DrawMemoryGroup(container)
         guiCreateNewline(container, 2)
 
-        radiantEchoCount = C_Item.GetItemCount(235897)
-        radiantEchoIcon = GetItemIcon(235897)
+        radiantEchoCount = C_Item.GetItemCount(246771)
+        radiantEchoIcon = GetItemIcon(246771)
 
         if radiantEchoCount == 0 then
             textColor = "\124cffE02E2E"
