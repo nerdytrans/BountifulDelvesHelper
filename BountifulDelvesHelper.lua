@@ -21,7 +21,9 @@ areaIDs = {
     [2215] = "Hallowfall",
     [2214] = "Ringing Deeps",
     [2255] = "Azj-Kahet",
-    [2346] = "Undermine"
+    [2346] = "Undermine",
+    [2371] = "K'aresh"
+
 }
 
 waypoints = {
@@ -60,6 +62,9 @@ waypoints = {
     [8246] = { ["zone"] = 2346, ["x"] = 35.20, ["y"] = 52.80 },
     -- "Demolition Dome"
     [8246] = { ["zone"] = 2346, ["x"] = 50.30, ["y"] = 9.60 },
+    -- "K'aresh"
+    -- "Archival Assault"
+    [8273] = { ["zone"] = 2371, ["x"] = 55.0, ["y"] = 48 }
 }
 
 worldQuestsIDs = {
