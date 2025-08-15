@@ -167,9 +167,10 @@ function showUI()
 
             local weeklyQuestCount = 4
             local weeklyQuestIDs = {
-                847360,
-                847363,
-                847361
+                84736,
+                84737,
+                84738,
+                84739
             }
             for _, weeklyQuestID in pairs(weeklyQuestIDs) do
                 if (C_QuestLog.IsQuestFlaggedCompleted(weeklyQuestID)) then
