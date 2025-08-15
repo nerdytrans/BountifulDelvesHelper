@@ -79,17 +79,17 @@ worldQuestsIDs = {
 }
 
 delveTiers = {
-    { ["bountifulLootIlvl"] = 610, ["recommendedIlvl"] = 587, ["vaultIlvl"] = 623 },
-    { ["bountifulLootIlvl"] = 613, ["recommendedIlvl"] = 590, ["vaultIlvl"] = 623 },
-    { ["bountifulLootIlvl"] = 616, ["recommendedIlvl"] = 593, ["vaultIlvl"] = 626 },
-    { ["bountifulLootIlvl"] = 619, ["recommendedIlvl"] = 597, ["vaultIlvl"] = 636 },
-    { ["bountifulLootIlvl"] = 623, ["recommendedIlvl"] = 606, ["vaultIlvl"] = 642 },
-    { ["bountifulLootIlvl"] = 626, ["recommendedIlvl"] = 613, ["vaultIlvl"] = 645 },
-    { ["bountifulLootIlvl"] = 636, ["recommendedIlvl"] = 626, ["vaultIlvl"] = 645 },
-    { ["bountifulLootIlvl"] = 639, ["recommendedIlvl"] = 639, ["vaultIlvl"] = 649 },
-    { ["bountifulLootIlvl"] = 639, ["recommendedIlvl"] = 645, ["vaultIlvl"] = 649 },
-    { ["bountifulLootIlvl"] = 639, ["recommendedIlvl"] = 652, ["vaultIlvl"] = 649 },
-    { ["bountifulLootIlvl"] = 639, ["recommendedIlvl"] = 658, ["vaultIlvl"] = 649 }
+    { ["bountifulLootIlvl"] = 655, ["recommendedIlvl"] = 626, ["vaultIlvl"] = 668 },
+    { ["bountifulLootIlvl"] = 658, ["recommendedIlvl"] = 629, ["vaultIlvl"] = 671 },
+    { ["bountifulLootIlvl"] = 662, ["recommendedIlvl"] = 632, ["vaultIlvl"] = 675 },
+    { ["bountifulLootIlvl"] = 665, ["recommendedIlvl"] = 636, ["vaultIlvl"] = 678 },
+    { ["bountifulLootIlvl"] = 668, ["recommendedIlvl"] = 645, ["vaultIlvl"] = 681 },
+    { ["bountifulLootIlvl"] = 671, ["recommendedIlvl"] = 652, ["vaultIlvl"] = 688 },
+    { ["bountifulLootIlvl"] = 681, ["recommendedIlvl"] = 668, ["vaultIlvl"] = 691 },
+    { ["bountifulLootIlvl"] = 684, ["recommendedIlvl"] = 678, ["vaultIlvl"] = 694 },
+    { ["bountifulLootIlvl"] = 684, ["recommendedIlvl"] = 684, ["vaultIlvl"] = 694 },
+    { ["bountifulLootIlvl"] = 684, ["recommendedIlvl"] = 691, ["vaultIlvl"] = 694 },
+    { ["bountifulLootIlvl"] = 684, ["recommendedIlvl"] = 697, ["vaultIlvl"] = 694 }
 }
 
 AceGUI = LibStub("AceGUI-3.0")
